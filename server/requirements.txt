@@ -1,0 +1,5 @@
+flask
+pymongo
+bson
+mongoengine
+flask_cors 
